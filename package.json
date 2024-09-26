@@ -1,0 +1,24 @@
+{
+    "name": "css-sass",
+    "version": "1.0.0",
+    "description": "NODE & NPM Basics",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "NODE",
+      "NPM",
+      "JS",
+      "SASS"
+    ],
+    "author": "Kishore kanna .a",
+    "license": "ISC",
+    "dependencies": {
+      "bootstrap": "^5.3.3"
+    },
+    "devDependencies": {
+      "node-sass": "^9.0.0"
+    }
+  
+  }
